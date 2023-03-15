@@ -1,13 +1,8 @@
 # Life Expectancy and GDP Analysis
-## Codecademy Project
-### Course: [Data Science Foundation](https://www.codecademy.com/learn/paths/data-science-foundations)
-#### Class: Data Visualization
+### Codecademy Project
+**Course:** [Data Science Foundation](https://www.codecademy.com/learn/paths/data-science-foundations)
 
----
-
->###   The results of this analysis were posted [here](https://medium.com/@bcbmotta/explanatory-data-analysis-eda-data-visualization-with-python-46310a48be3c "Medium.com"), go check it out!
-
----
+>#### The results of this analysis were posted [here](https://medium.com/@bcbmotta/explanatory-data-analysis-eda-data-visualization-with-python-46310a48be3c "Medium.com"), go check it out!
 
 ## Project Goals
 The main goal of this project is to perform an Exploratory Data Analysis (EDA) around the information regarding Life Expectancy and Gross Domestic Product (GDP) for 6 different countries between the years of 2000 and 2015.
